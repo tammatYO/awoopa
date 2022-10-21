@@ -1,10 +1,11 @@
 .main {
-  background: primary;
+  background: #16194f;
 }
 
 .header {
   display: flex;
-  max-width: 900px;
+  max-width: 1152px;
+  margin: auto;
   padding-top: 67px;
   justify-content: space-between;
   align-items: center;
@@ -12,6 +13,19 @@
 
 .header_logo {
   color: white;
+  font-size: 24px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.header_nav {
+  padding-left: 264px;
+}
+
+.header_nav_item {
+  padding-right: 48px;
+  color: white;
+  text-decoration: none;
   font-size: 24px;
 }
 /*# sourceMappingURL=main.css.map */
