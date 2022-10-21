@@ -1,0 +1,17 @@
+.main {
+  background: primary;
+}
+
+.header {
+  display: flex;
+  max-width: 900px;
+  padding-top: 67px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_logo {
+  color: white;
+  font-size: 24px;
+}
+/*# sourceMappingURL=main.css.map */
