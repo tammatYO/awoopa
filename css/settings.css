@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.button {
+  background: #F44E77;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  padding: 24px 21px;
+}
+
+.button_2 {
+  margin-top: 54px;
+}
+
+.button_3 {
+  margin-top: 52px;
+}
+
+.input {
+  padding: 12px 28px;
+  width: 408px;
+  height: 14px;
+  background: #18181C;
+  border-radius: 5px;
+  color: #9E9E9E;
+  margin-top: 18px;
+}
+/*# sourceMappingURL=settings.css.map */

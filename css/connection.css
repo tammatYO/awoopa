@@ -1,0 +1,29 @@
+.connection {
+  height: 836px;
+}
+
+.connection_container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 209px;
+}
+
+.connection_form {
+  display: block;
+  margin-left: 80px;
+}
+
+.connection_form_title {
+  color: #554DDE;
+  font-weight: 600;
+  font-size: 48px;
+}
+
+.connection_form_title_text {
+  font-weight: 400;
+  font-size: 24px;
+  color: #6A6D9E;
+}
+/*# sourceMappingURL=connection.css.map */
